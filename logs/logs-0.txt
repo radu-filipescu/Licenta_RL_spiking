@@ -1,0 +1,40 @@
+Episode 0
+Memory size: 31
+Avg Frame-Rate: 10.584835798290987
+Reward: 61
+
+Episode 2
+Memory size: 301
+Avg Frame-Rate: 12.150926462050155
+Reward: 217
+
+Episode 4
+Memory size: 752
+Avg Frame-Rate: 12.052616982850994
+Reward: 379
+
+Episode 6
+Memory size: 954
+Avg Frame-Rate: 12.096067571568877
+Reward: 70
+
+Episode 8
+Memory size: 1195
+Avg Frame-Rate: 11.764073653358015
+Reward: 153
+
+Episode 10
+Memory size: 3296
+Avg Frame-Rate: 11.474564515332776
+Reward: 66
+
+Episode 12
+Memory size: 0
+Avg Frame-Rate: 11.986049479557305
+Reward: 242
+
+Episode 14
+Memory size: 1651
+Avg Frame-Rate: 12.108354075337742
+Reward: 881
+
